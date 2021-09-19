@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zerotwo",
+  "name": "zerotwo",
+  "description": "1.12.2 anarchy mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://zerotwohack.space/",
+  "updateUrl": "",
+  "authorList": ["fendy, quimen"],
+  "credits": "u love anarchy",
+  "logoFile": "zerotwo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
